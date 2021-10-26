@@ -29,5 +29,4 @@ public class Sample1Get {
 	
     
 }
-//Abcdef 
 
